@@ -1,0 +1,35 @@
+body{
+
+    color: rgb(131, 185, 233);
+    background-color: rgb(116, 4, 82);
+    
+    }
+    
+    .heading{
+    
+    width: 85% ;
+    font-size: 24px ;
+    
+    }
+    
+    .name_fo_face{
+    
+    color: rgb(230, 201, 218);
+    
+    }
+    
+    #camra{
+    
+    width: 350px;
+    height: 300px;
+    border: 2px desh  rgb(138, 153, 236);
+    
+    
+    }
+    
+    .name_of_face, #result_face_name, #result_face_accuracy{
+    
+    color: rgb(247, 208, 243);
+    
+    
+    }
